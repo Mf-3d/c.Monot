@@ -1,29 +1,18 @@
-# Monot v.1.0 Beta 1
-monochrome.による、「オシャレ、高機能、そして使いやすい」ブラウザです。
+# c.Monot とは
+Sorakime氏によって作られたWebブラウザ「Monot」の改造版です。（非公式）
+macOS版とWindows版を配布する予定です。
 
-## 注意
-まだ初期ベータand開発が遅いので、タブさえもできません。
-
-しかし、少しずつ開発の目途が立ってきている（適当）ので、今年中には完成させたい考えで、あります。
-
-また、オシャレは事実だと思います。
-
-えーと、若干挙動ががおかしいのと重たいのは目をつぶってください。
-
+I do not plan to distribute the English version.
 
 ## 概要
-|Monot|について|
+|c.Monot|について|
 |:--|:--|
-|名前|Monot|
+|名前|c.Monot|
 |バージョン|v.1.0 Beta 1|
-|ビルド|1|
 |言語|日本語|
 
-## スクショ
-![image](https://user-images.githubusercontent.com/69241694/127787093-7abe95ba-c848-49d1-bf04-9b641ee34e32.png)
-
-悪くはないんじゃない？Safariをパクったとかいうなよ？
-
+## 現在発生している問題
+- macOS版 でコピー&ペーストができない
 
 ## ショートカットキー
 |ショートカット|キー一覧|
@@ -36,10 +25,3 @@ monochrome.による、「オシャレ、高機能、そして使いやすい」
 |再読み込み|Ctrl(Dmd) + R|
 |戻る|Ctrl(Cmd) + Shift + Z|
 |進む|Ctrl(Cmd) + Shift + X|
-
-戻る進むがあるのはいいんじゃない？
-
-# ダウンロードしてくださいっ！！！！！
-
----
-Copyright 2021 Sorakime and monochrome Project.
