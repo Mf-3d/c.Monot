@@ -26,5 +26,4 @@ I do not plan to distribute the English version.
 |戻る|Ctrl(Cmd) + Shift + Z|
 |進む|Ctrl(Cmd) + Shift + X|
 
-#　スクリーンショット
 ![image](https://user-images.githubusercontent.com/84224913/132968076-a88d3947-0c02-4ca2-93cc-a295821819d7.png)
