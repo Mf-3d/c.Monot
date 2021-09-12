@@ -27,4 +27,4 @@ I do not plan to distribute the English version.
 |戻る|Ctrl(Cmd) + Shift + Z|
 |進む|Ctrl(Cmd) + Shift + X|
 
-[オリジナル](https://github.com/Sorakime/monot)
+[オリジナルのレポジトリ](https://github.com/Sorakime/monot)
