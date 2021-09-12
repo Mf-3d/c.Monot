@@ -15,13 +15,17 @@
   "build": {
     "appId": "io.github.mf-3d.c_monot",
     "win": {
-      "icon": "src/image/logo.ico",
+      "icon": "src/image/logo.png",
       "target": "portable",
       "legalTrademarks": "Copyright 2021 mf7cli."
     },
     "linux": {
       "icon": "src/image/icon.png",
       "target": "AppImage"
+    },
+    "mac": {
+      "icon": "src/image/logo.icns",
+      "target": "dmg"
     },
     "appImage": {
       "category": "Utility",
