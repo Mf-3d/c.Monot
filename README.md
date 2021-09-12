@@ -26,3 +26,5 @@ I do not plan to distribute the English version.
 |再読み込み|Ctrl(Cmd) + R|
 |戻る|Ctrl(Cmd) + Shift + Z|
 |進む|Ctrl(Cmd) + Shift + X|
+
+オリジナル：github.com/Sorakime/monot
