@@ -23,6 +23,6 @@ I do not plan to distribute the English version.
 |他を隠す|Ctrl(Cmd) + Shift + H?|
 |再起動?|Ctrl(Cmd) + Alt + R|
 |終了|Ctrl(Cmd) + Q|
-|再読み込み|Ctrl(Dmd) + R|
+|再読み込み|Ctrl(Cmd) + R|
 |戻る|Ctrl(Cmd) + Shift + Z|
 |進む|Ctrl(Cmd) + Shift + X|
