@@ -1,23 +1,23 @@
 {
-  "name": "monot",
+  "name": "c.monot",
   "version": "1.0.0",
-  "description": "The new web browser by monochrome",
+  "description": "The new web browser by mf7cli",
   "main": "main.js",
   "scripts": {
     "test": "npx electron ."
   },
-  "author": "Sorakime",
+  "author": "mf7cli",
   "license": "ISC",
   "devDependencies": {
     "electron": "^13.1.7",
     "electron-builder": "^22.11.7"
   },
   "build": {
-    "appId": "io.github.sorakime.monot",
+    "appId": "io.github.mf-3d.c_monot",
     "win": {
       "icon": "src/image/logo.ico",
       "target": "portable",
-      "legalTrademarks": "Copyright 2021 Sorakime."
+      "legalTrademarks": "Copyright 2021 mf7cli."
     },
     "linux": {
       "icon": "src/image/icon.png",

@@ -97,7 +97,7 @@ let menu=Menu.buildFromTemplate([
     label: '表示',
     submenu: [
       {
-        label: 'Monotについて',
+        label: 'c.Monotについて',
         accelerator: 'CmdOrCtrl+Alt+A',
         click: ()=>{
           dialog.showMessageBox(null, {
@@ -106,11 +106,10 @@ let menu=Menu.buildFromTemplate([
             title: 'Monotについて',
             message: 'Monot 1.0 Beta 1について',
             detail: `バージョン: 1.0.0 Beta 1
-ビルド番号: 1
-開発者: Sorakime (Edit by mf7cli)
+開発者: mf7cli (Original by Sorakime)
 
-リポジトリ: https://github.com/Sorakime/monot
-Copyright 2021 Sorakime.`
+リポジトリ: https://github.com/mf-3d/c.Monot
+Copyright 2021 mf7cli.`
           })
         }
       },
