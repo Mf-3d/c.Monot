@@ -106,10 +106,10 @@ let menu=Menu.buildFromTemplate([
             title: 'Monotについて',
             message: 'Monot 1.0 Beta 1について',
             detail: `バージョン: 1.0.0 Beta 1
-開発者: mf7cli (Original by Sorakime)
+            開発者: mf7cli (Original by Sorakime)
 
-リポジトリ: https://github.com/mf-3d/c.Monot
-Copyright 2021 mf7cli.`
+            リポジトリ: https://github.com/mf-3d/c.Monot
+            Copyright 2021 mf7cli.`
           })
         }
       },
