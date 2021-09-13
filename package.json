@@ -31,5 +31,8 @@
       "category": "Utility",
       "synopsis": "Monot ver1.0b1Build1"
     }
+  },
+  "dependencies": {
+    "electron-tabs": "^0.15.0"
   }
 }

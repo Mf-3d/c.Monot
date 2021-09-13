@@ -36,7 +36,7 @@ body *:first-child{
 }
 body input{
   top: -13px;
-  width: calc(100% - calc(45px * 7));
+  width: calc(100% - calc(50px * 7));
   margin-left: 5px; margin-right: 5px;
   padding-left: 7.5px;
   padding-right: 7.5px;
@@ -61,7 +61,10 @@ a:nth-child(5){
 a:nth-child(6){
   background-image: url('../image/prev.png');
 }
-a:nth-child(8){
+a:nth-child(7){
+  background-image: url('../image/home.png');
+}
+a:nth-child(9){
   background-image: url('../image/go.png');
 }
 a:nth-child(2){

@@ -91,6 +91,10 @@ ipcMain.on('browserBack',()=>{
 ipcMain.on('browserGoes',()=>{
   bv.webContents.goForward();
 })
+ipcMain.on('moveViewHome',()=>{
+  bv.webContents.loadURL('http://electron.atom.io/'); 
+}
+)
 
 let menu=Menu.buildFromTemplate([
   {
