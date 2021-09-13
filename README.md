@@ -27,5 +27,5 @@ I do not plan to distribute the English version.
 |戻る|Ctrl(Cmd) + Shift + Z|
 |進む|Ctrl(Cmd) + Shift + X|
 
-[元](https://github.com/Sorakime/monot)
+[元 (monot v.1.0 beta2)](https://github.com/Sorakime/monot)
 [ライセンス](https://sorakime.github.io/mncr/license?v=1.1.1)
