@@ -24,14 +24,14 @@ contextBridge.exposeInMainWorld('node',{
         ipcRenderer.send('moveView',word);
       }else{
         //if it's not url
-        ipcRenderer.send('moveView',`https://www.google.co.jp/search?q=${word}`);
+        ipcRenderer.send('moveView',`https://www.duckduckgo.com/?q=${word}`);
       }
     }else if(word.indexOf(' ')==-1&&word.indexOf('.')!=-1){
       //for like "example.com" and "example.com/example/"
       ipcRenderer.send('moveView',`http://${word}`);
     }else{
       //LAST
-      ipcRenderer.send('moveView',`https://www.google.co.jp/search?q=${word}`);
+      ipcRenderer.send('moveView',`https://www.duckduckgo.com/?q=${word}`);
     }
   },
   moveToNewTab: ()=>{
@@ -47,12 +47,9 @@ contextBridge.exposeInMainWorld('node',{
     ipcRenderer.send('browserGoes');
   },
   searchBrowser: (word)=>{
-    ipcRenderer.send('moveView',`https://www.google.co.jp/search?q=${word}`);
+    ipcRenderer.send('moveView',`https://www.duckduckgo.com/?q=${word}`);
   },
   dirName: ()=>{return __dirname},
-  goHomePage: ()=>{
-    ipcRenderer.send('moveViewHome');
-  },
   getTab: ()=>{
     return ipcRenderer.send('getTabList');
   },

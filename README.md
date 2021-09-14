@@ -26,3 +26,6 @@ I do not plan to distribute the English version.
 |再読み込み|Ctrl(Dmd) + R|
 |戻る|Ctrl(Cmd) + Shift + Z|
 |進む|Ctrl(Cmd) + Shift + X|
+
+[元 (monot v.1.0 beta2)](https://github.com/Sorakime/monot)
+[ライセンス](https://sorakime.github.io/mncr/license?v=1.1.1)
